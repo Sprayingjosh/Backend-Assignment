@@ -1,0 +1,7 @@
+let flower = "Rose"
+let tree = "apple"
+let temp = flower
+ flower = tree
+ tree = temp
+console.log ("flower", flower)
+console.log ("tree", tree )
